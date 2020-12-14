@@ -1,6 +1,6 @@
-body {
+ body {
     font: 13pt Arial, Helvetica, sans-serif; /* Øðèôò òåñòà */
-    background: #002794; /* Öâåò ôîíà */
+    background: #52026E; /* Öâåò ôîíà */
    }
    h1 {
     font-size: 30px; /* Ðàçìåð øðèôòà â çàãîëîâêå 1*/
@@ -20,19 +20,19 @@ body {
    table {
     border-collapse: collapse;
     border: 2px solid black;
-    background: #ffff;
+    background: #fff;
    }
    th, td {border: 1px solid black;}
    .container {
     width: 1800px; /* Øèðèíà ñëîÿ */
     margin: 0 auto; /* Âûðàâíèâíèòü âåñü áëîê ïî öåíòðó */
-    background: #009999; /* Öâåò ôîíà ëåâîé êîëîíêè */
+    background: #7E07A9; /* Öâåò ôîíà ëåâîé êîëîíêè */
    }
    .header {
     font-size: 30px; /* Ðàçìåð òåêñòà â øàïêå */
     text-align: center; /* Âûðàâíèâàíèå òåêñò øàïêè ïî öåíòðó */
     padding: 5px; /* Îòñòóïû âíóòðè áëîêà øàïêè */
-    background: #006363; /* Öâåò ôîíà øàïêè */
+    background: #52026E; /* Öâåò ôîíà øàïêè */
     color: #fff; /* Öâåò òåêñòà */
    }
    .sidebar {
@@ -45,10 +45,10 @@ body {
    .content {
     margin-left: 300px; /* Îòñòóï ñëåâà */
     padding: 10px; /* Îòñòóïû âíóòðè ïðàâîãî áëîêà */
-    background: linear-gradient(180deg, #33CCCC, #fff); /* Öâåò ôîíà ïðàâîãî áëîêà */
+    background: linear-gradient(180deg, #AC3BD4, #fff); /* Öâåò ôîíà ïðàâîãî áëîêà */
    }
    .footer {
-    background: #006363; /* Öâåò ôîíà íèæíåãî áëîêà-ïîäâàëà */
+    background: #52026E; /* Öâåò ôîíà íèæíåãî áëîêà-ïîäâàëà */
     color: #fff; /* Öâåò òåêñòà ïîäâàëà */
     padding: 5px; /* Îòñòóïû âíóòðè áëîêà */
     clear: left; /* Îòìåíÿåì äåéñòâèå float */
